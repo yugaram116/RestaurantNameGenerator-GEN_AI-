@@ -1,3 +1,5 @@
-langchain
-google-search-results
 streamlit
+langchain
+langchain-groq
+groq
+python-dotenv

@@ -1,4 +1,3 @@
-groq_api_key
 langchain
 google-search-results
 streamlit
